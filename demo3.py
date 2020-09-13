@@ -2,8 +2,11 @@
 import sys
 import re
 import codecs
+import numpy
 
 # majority of the code has been removed.
+# For adcademic integrity reason, only a small fraction
+# of the code remains.
 class Context(object): 
     """
     Represent a single input word with context.
